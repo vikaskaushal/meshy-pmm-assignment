@@ -1,6 +1,6 @@
 # Meshy 3D Agent
-**Landing page: https://meshy3dagentlp.netlify.app/**
-
+**Landing page: https://meshy3dagentlp.netlify.app/**  
+[Download the strategy document (PDF)](./meshy-pmm-strategy.pdf?raw=true)
 ## 1. Core message
 For 3D printing hobbyists, Meshy 3D Agent turns ideas into print-ready models through chat by creating and editing models, checking and fixing issues, and helping with print prep.
 
